@@ -2,10 +2,10 @@
 
 ## Student and Project Information
 
-- Student name:
-- GitHub username:
-- Project title:
-- Application purpose:
+- Student name:Tyler Smith
+- GitHub username:Tsmit798
+- Project title:VHS Database and Sorting
+- Application purpose:To keep track of, search, and organize a collection of VHS tapes.
 
 ## How to Run the Application
 
